@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m working as a Engineer Informatic on Prochile<br>- 📚 I'm currently learning IA with Microsoft Azure<br>- ⚡ In my free time I Develop web pages with React and Django
+- 🔭 I’m working on dwh (Data Warehouse) proyect to Chilean IKO Matsushima Chile <br>- 📚 I'm currently learning IA with Microsoft Azure<br>- ⚡ In my free time I Develop web pages with React and Django
 
 
 ## 🌐 Socials:
